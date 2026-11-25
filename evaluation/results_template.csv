@@ -1,0 +1,6 @@
+test_id,audio_type,language,reference_file,hypothesis_file,audio_duration_seconds,processing_time_seconds,wer,hardware,notes
+T01,clear speech,English,,,,,,,,
+T02,clear speech,Hindi,,,,,,,,
+T03,code-switched speech,Hindi-English,,,,,,,,
+T04,song with vocals,record actual language,,,,,,,,
+T05,Punjabi stress test,Punjabi,,,,,,,,
